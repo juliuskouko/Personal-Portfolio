@@ -11,7 +11,7 @@ const SkillItem = (props) => {
 					{props.icon}
 				</div>
 				<h3 className="hidden lg:block text-[#f1faee]">{props.name}</h3>
-				<div className="hidden lg:block bg-[#555] w-full h-1 mb-1">
+				{/* <div className="hidden lg:block bg-[#555] w-full h-1 mb-1"> 
 					<Anime
 						keyframes={[{ width: "0%" }, { width: props.value }]}
 						easing={"spring(1, 80, 10, 0)"}
@@ -24,7 +24,7 @@ const SkillItem = (props) => {
 					>
 						<div className="bg-[#06d6a0] h-1 rounded-full"></div>
 					</Anime>
-				</div>
+				</div> */}
 			</div>
 		</div>
 	);
