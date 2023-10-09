@@ -55,6 +55,26 @@ const Portfolio = ({ refs }) => {
 						}
 						link="https://splendid-sopapillas-a96bc1.netlify.app/"
 					/>
+					<PortfolioItem
+						heading="WEBSITE"
+						heading2="my-tune"
+						type="port"
+						title="my-turn"
+						description={
+							"Built with html and css"
+						}
+						link="https://inspiring-zabaione-5c1000.netlify.app/"
+					/>
+					<PortfolioItem
+						heading="WEBSITE UI"
+						heading2="Parallax"
+						type="port"
+						title="my-Parallax"
+						description={
+							"This UI was built with html and css"
+						}
+						link="https://regal-cocada-df515c.netlify.app/"
+					/>
 					
 					
 					
