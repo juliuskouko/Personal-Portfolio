@@ -33,7 +33,7 @@ const Portfolio = ({ refs }) => {
 						description={
 							"Personal Portfolio built with react js and backed with Google's Firebase as serverless backend.."
 						}
-						link="https://6505f198ef6fec3729b2c611--shiny-rolypoly-d09bdd.netlify.app/"
+						link="https://652450bed9212427688d2862--wondrous-cupcake-93c8a8.netlify.app/"
 					/>
 					<PortfolioItem
 						heading="WEBSITE"
