@@ -17,7 +17,7 @@ const Portfolio = ({ refs }) => {
 				>
 					<PortfolioItem
 						heading="WEBSITE"
-						heading2="A Food Recipe Website - Live"
+						heading2="A Food Recipe Website"
 						type="web"
 						title="FlavorFusion"
 						description={
@@ -27,17 +27,17 @@ const Portfolio = ({ refs }) => {
 					/>
 					<PortfolioItem
 						heading="WEBSITE"
-						heading2="A Personal Portfolio - Live"
+						heading2="A Personal Portfolio"
 						type="port"
-						title="DYNAMIC PERSONAL PORTFOLIO"
+						title="PERSONAL PORTFOLIO"
 						description={
-							"Personal Portfolio completely built with DJango and DTL, hosted on AWS and various other technologies."
+							"Personal Portfolio built with react js and backed with Google's Firebase as serverless backend.."
 						}
-						link="https://thefortyseven.dev/portfolio"
+						link="https://6505f198ef6fec3729b2c611--shiny-rolypoly-d09bdd.netlify.app/"
 					/>
 					<PortfolioItem
 						heading="WEBSITE"
-						heading2="Web Development Project - Client"
+						heading2="Web Development Project"
 						type="web"
 						title="WEB DEVELOPMENT"
 						description={
@@ -47,44 +47,17 @@ const Portfolio = ({ refs }) => {
 					/>
 					<PortfolioItem
 						heading="WEBSITE"
-						heading2="Personal Portfolio - GitHub Pages"
+						heading2="E-commerce"
 						type="port"
-						title="PERSONAL PORTFOLIO"
+						title="E-commerce"
 						description={
-							"First Personal Portfolio, hosted freely on GitHub Pages and backed with Google's Firebase as serverless backend."
+							"Built with react js"
 						}
-						link="https://fortysev-en.github.io/"
+						link="https://splendid-sopapillas-a96bc1.netlify.app/"
 					/>
-					<PortfolioItem
-						heading="WEBSITE"
-						heading2="Personal Blogging Website - GitHub Pages"
-						type="web"
-						title="PERSONAL BLOGGING WEBSITE"
-						description={
-							"First Personal Blogging Website, hosted freely on GitHub Pages and backed with Google's Firebase as serverless backend."
-						}
-						link="https://fortysev-en.github.io/blogs/fortyseven-homepage-complete-list-of-blogs.html"
-					/>
-					<PortfolioItem
-						heading="ANDROID APP"
-						heading2="Stock Application Port"
-						type="app"
-						title="ANDROID APP DEVELOPMENT"
-						description={
-							"Stock Application Port - Ported all the stock applications of Sony to be compatable for all general Android devices."
-						}
-						link="https://forum.xda-developers.com/t/apps-ported-mar03-xperia-ported-apps-for-aosp-based-roms.3558430/"
-					/>
-					<PortfolioItem
-						heading="ANDROID ROM"
-						heading2="ROM Development"
-						type="rom"
-						title="ANDROID ROM DEVELOPMENT"
-						description={
-							"Developed latest (at that period) Android ROM [7.0] exclusively for outdated Sony Experia Acro S with the sources available from Google as an AOSP project."
-						}
-						link="https://forum.xda-developers.com/t/rom-7-x-nougat-naosp-rom-for-acro-s.3507721/"
-					/>
+					
+					
+					
 				</Anime>
 			</div>
 		</div>
